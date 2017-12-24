@@ -1,0 +1,31 @@
+.total-container {
+  margin-left: 66%;
+  margin-top: 3%;
+  background: white;
+  width: 240px;
+}
+
+.total {
+  height: 20px;
+  padding: 10px;
+}
+
+.label-name {
+  float: left;
+}
+
+.label-value {
+  float: right;
+}
+
+.tax {
+  height: 10px;
+  padding: 5px;
+  margin-left: 20px;
+}
+
+.total-tax {
+  padding: 10px;
+  border-bottom: 1px solid lightgrey;
+  border-top: 1px solid lightgrey;
+}
