@@ -14,3 +14,7 @@ Simple Shopping cart app using React & Redux
 ### Tests
  1. Run `npm test` to run the unit tests
  
+#### Link to live demo
+https://shashikanthgadgay.github.io/shopping-cart/
+
+ 
